@@ -1,0 +1,55 @@
+James Porzio
+Basic Animation Lab
+
+# import pygame
+
+# define new function for main
+
+# initialize pygame
+
+# create pygame window
+
+# create window caption
+
+# create background 
+
+# make the background blue
+
+# add coin image from file
+
+# scale coin to correct size 
+
+# add background image from file
+
+# scale background to correct size
+
+# move background to correct position
+
+# move coin to correct position
+
+# action/assign values to variables
+
+# create while loop
+
+# time is 30 frames per second
+
+# event handling 
+
+# if user quits, end game
+
+# speed of coin image movement
+
+# when coin image reaches end of screen, reset position
+
+# show background color on screen at specific position
+
+# show background image on screen at specifc position
+
+# show coin image on screen at specific position
+
+# refresh display
+
+# end the game
+
+# if name is main, call main function to start game
+
